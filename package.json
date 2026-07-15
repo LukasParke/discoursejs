@@ -6,7 +6,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/LukeHagar/discoursejs.git",
+    "url": "https://github.com/LukasParke/discoursejs.git",
     "directory": "."
   },
   "scripts": {
