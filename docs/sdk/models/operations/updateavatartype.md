@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateAvatarType } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateAvatarType } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateAvatarType = "custom";
 ```

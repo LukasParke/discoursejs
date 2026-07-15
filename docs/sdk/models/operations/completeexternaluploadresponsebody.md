@@ -5,7 +5,7 @@ external upload initialized
 ## Example Usage
 
 ```typescript
-import { CompleteExternalUploadResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CompleteExternalUploadResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CompleteExternalUploadResponseBody = {
   extension: "mp4",

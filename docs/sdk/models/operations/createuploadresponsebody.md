@@ -5,7 +5,7 @@ file uploaded
 ## Example Usage
 
 ```typescript
-import { CreateUploadResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateUploadResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateUploadResponseBody = {
   extension: "jpg",

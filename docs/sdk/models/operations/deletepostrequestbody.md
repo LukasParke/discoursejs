@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { DeletePostRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { DeletePostRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: DeletePostRequestBody = {
   forceDestroy: true,

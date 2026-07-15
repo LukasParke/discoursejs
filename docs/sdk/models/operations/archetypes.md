@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Archetypes } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Archetypes } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Archetypes = {
   id: "<id>",

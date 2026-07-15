@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { RemoveGroupMembersRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { RemoveGroupMembersRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: RemoveGroupMembersRequestBody = {
   usernames: "username1,username2",

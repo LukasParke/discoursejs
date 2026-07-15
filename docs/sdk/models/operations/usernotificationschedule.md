@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UserNotificationSchedule } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UserNotificationSchedule } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UserNotificationSchedule = {
   day0EndTime: 185636,

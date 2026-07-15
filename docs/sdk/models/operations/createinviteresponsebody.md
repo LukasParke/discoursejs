@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { CreateInviteResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateInviteResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateInviteResponseBody = {
   createdAt: "2021-01-01T12:00:00.000Z",

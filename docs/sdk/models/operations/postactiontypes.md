@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { PostActionTypes } from "@lukehagar/discoursejs/sdk/models/operations";
+import { PostActionTypes } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: PostActionTypes = {
   description: "Function-based discrete neural-net",

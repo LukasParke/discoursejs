@@ -5,7 +5,7 @@ external upload initialized
 ## Example Usage
 
 ```typescript
-import { AbortMultipartResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { AbortMultipartResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: AbortMultipartResponseBody = {
   success: "OK",

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { QueryParamOrder } from "@lukehagar/discoursejs/sdk/models/operations";
+import { QueryParamOrder } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: QueryParamOrder = "username";
 ```

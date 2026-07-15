@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { NotificationTypes } from "@lukehagar/discoursejs/sdk/models/operations";
+import { NotificationTypes } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: NotificationTypes = {
   bookmarkReminder: 910994,

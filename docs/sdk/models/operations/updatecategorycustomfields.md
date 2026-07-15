@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateCategoryCustomFields } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateCategoryCustomFields } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateCategoryCustomFields = {};
 ```

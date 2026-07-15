@@ -17,7 +17,7 @@ Create backup
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -36,8 +36,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { backupsCreateBackup } from "@lukehagar/discoursejs/funcs/backupsCreateBackup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { backupsCreateBackup } from "@parke.dev/discoursejs/funcs/backupsCreateBackup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -86,7 +86,7 @@ Download backup
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -102,8 +102,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { backupsDownloadBackup } from "@lukehagar/discoursejs/funcs/backupsDownloadBackup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { backupsDownloadBackup } from "@parke.dev/discoursejs/funcs/backupsDownloadBackup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -152,7 +152,7 @@ List backups
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -171,8 +171,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { backupsGetBackups } from "@lukehagar/discoursejs/funcs/backupsGetBackups.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { backupsGetBackups } from "@parke.dev/discoursejs/funcs/backupsGetBackups.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -220,7 +220,7 @@ Send download backup email
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -236,8 +236,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { backupsSendDownloadBackupEmail } from "@lukehagar/discoursejs/funcs/backupsSendDownloadBackupEmail.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { backupsSendDownloadBackupEmail } from "@parke.dev/discoursejs/funcs/backupsSendDownloadBackupEmail.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

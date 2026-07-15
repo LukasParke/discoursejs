@@ -5,7 +5,7 @@ group created
 ## Example Usage
 
 ```typescript
-import { CreateGroupResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateGroupResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateGroupResponseBody = {
   basicGroup: {

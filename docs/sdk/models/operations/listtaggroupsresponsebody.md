@@ -5,7 +5,7 @@ tags
 ## Example Usage
 
 ```typescript
-import { ListTagGroupsResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListTagGroupsResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListTagGroupsResponseBody = {};
 ```

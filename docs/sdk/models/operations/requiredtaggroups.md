@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { RequiredTagGroups } from "@lukehagar/discoursejs/sdk/models/operations";
+import { RequiredTagGroups } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: RequiredTagGroups = {
   minCount: 440666,

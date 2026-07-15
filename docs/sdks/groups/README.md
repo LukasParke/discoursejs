@@ -21,7 +21,7 @@ Add group members
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -42,8 +42,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsAddGroupMembers } from "@lukehagar/discoursejs/funcs/groupsAddGroupMembers.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsAddGroupMembers } from "@parke.dev/discoursejs/funcs/groupsAddGroupMembers.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -95,7 +95,7 @@ Create a group
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -114,8 +114,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsCreateGroup } from "@lukehagar/discoursejs/funcs/groupsCreateGroup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsCreateGroup } from "@parke.dev/discoursejs/funcs/groupsCreateGroup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -164,7 +164,7 @@ Delete a group
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -183,8 +183,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsDeleteGroup } from "@lukehagar/discoursejs/funcs/groupsDeleteGroup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsDeleteGroup } from "@parke.dev/discoursejs/funcs/groupsDeleteGroup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -233,7 +233,7 @@ Get a group
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -252,8 +252,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsGetGroup } from "@lukehagar/discoursejs/funcs/groupsGetGroup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsGetGroup } from "@parke.dev/discoursejs/funcs/groupsGetGroup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -302,7 +302,7 @@ List group members
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -321,8 +321,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsListGroupMembers } from "@lukehagar/discoursejs/funcs/groupsListGroupMembers.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsListGroupMembers } from "@parke.dev/discoursejs/funcs/groupsListGroupMembers.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -371,7 +371,7 @@ List groups
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -390,8 +390,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsListGroups } from "@lukehagar/discoursejs/funcs/groupsListGroups.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsListGroups } from "@parke.dev/discoursejs/funcs/groupsListGroups.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -439,7 +439,7 @@ Remove group members
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -460,8 +460,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsRemoveGroupMembers } from "@lukehagar/discoursejs/funcs/groupsRemoveGroupMembers.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsRemoveGroupMembers } from "@parke.dev/discoursejs/funcs/groupsRemoveGroupMembers.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -513,7 +513,7 @@ Update a group
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -532,8 +532,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { groupsUpdateGroup } from "@lukehagar/discoursejs/funcs/groupsUpdateGroup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { groupsUpdateGroup } from "@parke.dev/discoursejs/funcs/groupsUpdateGroup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

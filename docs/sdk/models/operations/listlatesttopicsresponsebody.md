@@ -5,7 +5,7 @@ topic updated
 ## Example Usage
 
 ```typescript
-import { ListLatestTopicsResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListLatestTopicsResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListLatestTopicsResponseBody = {};
 ```

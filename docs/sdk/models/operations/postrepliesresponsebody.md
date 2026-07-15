@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { PostRepliesResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { PostRepliesResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: PostRepliesResponseBody = {
   actionsSummary: [

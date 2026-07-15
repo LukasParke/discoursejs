@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { UpdateGroupResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateGroupResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateGroupResponseBody = {
   success: "OK",

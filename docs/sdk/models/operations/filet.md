@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { FileT } from "@lukehagar/discoursejs/sdk/models/operations";
+import { FileT } from "@parke.dev/discoursejs/sdk/models/operations";
 
 // No examples available for this model
 ```

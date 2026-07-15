@@ -5,7 +5,7 @@ tag group created
 ## Example Usage
 
 ```typescript
-import { CreateTagGroupResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateTagGroupResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateTagGroupResponseBody = {
   tagGroup: {

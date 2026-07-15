@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { ListUserActionsResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListUserActionsResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListUserActionsResponseBody = {
   userActions: [

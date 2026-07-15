@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Details } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Details } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Details = {
   canArchiveTopic: false,

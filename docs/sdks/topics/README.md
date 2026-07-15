@@ -26,7 +26,7 @@ Bookmark topic
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -42,8 +42,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsBookmarkTopic } from "@lukehagar/discoursejs/funcs/topicsBookmarkTopic.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsBookmarkTopic } from "@parke.dev/discoursejs/funcs/topicsBookmarkTopic.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -93,7 +93,7 @@ Creates a new topic, a new post, or a private message
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -116,8 +116,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsCreateTopicPostPM } from "@lukehagar/discoursejs/funcs/topicsCreateTopicPostPM.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsCreateTopicPostPM } from "@parke.dev/discoursejs/funcs/topicsCreateTopicPostPM.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -170,7 +170,7 @@ Create topic timer
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -191,8 +191,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsCreateTopicTimer } from "@lukehagar/discoursejs/funcs/topicsCreateTopicTimer.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsCreateTopicTimer } from "@parke.dev/discoursejs/funcs/topicsCreateTopicTimer.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -246,7 +246,7 @@ Get a single topic
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -265,8 +265,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsGetTopic } from "@lukehagar/discoursejs/funcs/topicsGetTopic.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsGetTopic } from "@parke.dev/discoursejs/funcs/topicsGetTopic.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -317,7 +317,7 @@ Get topic by external_id
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -333,8 +333,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsGetTopicByExternalId } from "@lukehagar/discoursejs/funcs/topicsGetTopicByExternalId.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsGetTopicByExternalId } from "@parke.dev/discoursejs/funcs/topicsGetTopicByExternalId.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -382,7 +382,7 @@ Invite to topic
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -401,8 +401,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsInviteToTopic } from "@lukehagar/discoursejs/funcs/topicsInviteToTopic.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsInviteToTopic } from "@parke.dev/discoursejs/funcs/topicsInviteToTopic.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -454,7 +454,7 @@ Get the latest topics
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -473,8 +473,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsListLatestTopics } from "@lukehagar/discoursejs/funcs/topicsListLatestTopics.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsListLatestTopics } from "@parke.dev/discoursejs/funcs/topicsListLatestTopics.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -526,7 +526,7 @@ Get the top topics filtered by period
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -545,8 +545,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsListTopTopics } from "@lukehagar/discoursejs/funcs/topicsListTopTopics.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsListTopTopics } from "@parke.dev/discoursejs/funcs/topicsListTopTopics.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -597,7 +597,7 @@ Remove a topic
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -613,8 +613,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsRemoveTopic } from "@lukehagar/discoursejs/funcs/topicsRemoveTopic.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsRemoveTopic } from "@parke.dev/discoursejs/funcs/topicsRemoveTopic.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -664,7 +664,7 @@ Set notification level
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -683,8 +683,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsSetNotificationLevel } from "@lukehagar/discoursejs/funcs/topicsSetNotificationLevel.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsSetNotificationLevel } from "@parke.dev/discoursejs/funcs/topicsSetNotificationLevel.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -736,7 +736,7 @@ Update a topic
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -755,8 +755,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsUpdateTopic } from "@lukehagar/discoursejs/funcs/topicsUpdateTopic.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsUpdateTopic } from "@parke.dev/discoursejs/funcs/topicsUpdateTopic.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -808,7 +808,7 @@ Update the status of a topic
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -831,8 +831,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsUpdateTopicStatus } from "@lukehagar/discoursejs/funcs/topicsUpdateTopicStatus.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsUpdateTopicStatus } from "@parke.dev/discoursejs/funcs/topicsUpdateTopicStatus.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -888,7 +888,7 @@ Update topic timestamp
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -909,8 +909,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { topicsUpdateTopicTimestamp } from "@lukehagar/discoursejs/funcs/topicsUpdateTopicTimestamp.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { topicsUpdateTopicTimestamp } from "@parke.dev/discoursejs/funcs/topicsUpdateTopicTimestamp.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

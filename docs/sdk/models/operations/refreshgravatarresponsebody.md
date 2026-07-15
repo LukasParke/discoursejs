@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { RefreshGravatarResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { RefreshGravatarResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: RefreshGravatarResponseBody = {
   gravatarAvatarTemplate: "<value>",

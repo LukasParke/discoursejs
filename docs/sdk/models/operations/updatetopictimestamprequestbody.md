@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateTopicTimestampRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateTopicTimestampRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateTopicTimestampRequestBody = {
   timestamp: "1594291380",

@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { GetSiteResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetSiteResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetSiteResponseBody = {
   anonymousTopMenuItems: [

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Extras } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Extras } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Extras = {
   visibleGroupNames: [

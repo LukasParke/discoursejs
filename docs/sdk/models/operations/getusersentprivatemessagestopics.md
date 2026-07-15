@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GetUserSentPrivateMessagesTopics } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserSentPrivateMessagesTopics } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserSentPrivateMessagesTopics = {};
 ```

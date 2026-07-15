@@ -5,7 +5,7 @@ specific posts
 ## Example Usage
 
 ```typescript
-import { GetTopicResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetTopicResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetTopicResponseBody = {
   actionsSummary: [

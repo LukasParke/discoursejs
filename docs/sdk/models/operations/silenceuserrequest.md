@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { SilenceUserRequest } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SilenceUserRequest } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SilenceUserRequest = {
   requestBody: {

@@ -19,7 +19,7 @@ Creates a tag group
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -38,8 +38,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { tagsCreateTagGroup } from "@lukehagar/discoursejs/funcs/tagsCreateTagGroup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { tagsCreateTagGroup } from "@parke.dev/discoursejs/funcs/tagsCreateTagGroup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -88,7 +88,7 @@ Get a specific tag
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -107,8 +107,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { tagsGetTag } from "@lukehagar/discoursejs/funcs/tagsGetTag.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { tagsGetTag } from "@parke.dev/discoursejs/funcs/tagsGetTag.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -157,7 +157,7 @@ Get a single tag group
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -176,8 +176,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { tagsGetTagGroup } from "@lukehagar/discoursejs/funcs/tagsGetTagGroup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { tagsGetTagGroup } from "@parke.dev/discoursejs/funcs/tagsGetTagGroup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -226,7 +226,7 @@ Get a list of tag groups
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -245,8 +245,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { tagsListTagGroups } from "@lukehagar/discoursejs/funcs/tagsListTagGroups.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { tagsListTagGroups } from "@parke.dev/discoursejs/funcs/tagsListTagGroups.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -294,7 +294,7 @@ Get a list of tags
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -313,8 +313,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { tagsListTags } from "@lukehagar/discoursejs/funcs/tagsListTags.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { tagsListTags } from "@parke.dev/discoursejs/funcs/tagsListTags.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -362,7 +362,7 @@ Update tag group
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -381,8 +381,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { tagsUpdateTagGroup } from "@lukehagar/discoursejs/funcs/tagsUpdateTagGroup.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { tagsUpdateTagGroup } from "@parke.dev/discoursejs/funcs/tagsUpdateTagGroup.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

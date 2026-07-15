@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateGroupGroup } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateGroupGroup } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateGroupGroup = {
   name: "<value>",

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { AdminGetUserExternalIds } from "@lukehagar/discoursejs/sdk/models/operations";
+import { AdminGetUserExternalIds } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: AdminGetUserExternalIds = {};
 ```

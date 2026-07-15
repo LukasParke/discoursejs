@@ -5,7 +5,7 @@ external upload initialized
 ## Example Usage
 
 ```typescript
-import { CreateMultipartUploadResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateMultipartUploadResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateMultipartUploadResponseBody = {
   externalUploadIdentifier:

@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { GetUserEmailsResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserEmailsResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserEmailsResponseBody = {
   associatedAccounts: [

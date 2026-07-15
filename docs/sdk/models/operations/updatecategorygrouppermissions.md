@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateCategoryGroupPermissions } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateCategoryGroupPermissions } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateCategoryGroupPermissions = {
   groupName: "<value>",

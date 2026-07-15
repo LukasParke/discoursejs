@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { QueryParamAsc } from "@lukehagar/discoursejs/sdk/models/operations";
+import { QueryParamAsc } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: QueryParamAsc = "true";
 ```

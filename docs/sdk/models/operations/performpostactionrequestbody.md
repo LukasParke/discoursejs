@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { PerformPostActionRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { PerformPostActionRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: PerformPostActionRequestBody = {
   id: 811939,

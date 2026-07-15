@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { NotificationLevel } from "@lukehagar/discoursejs/sdk/models/operations";
+import { NotificationLevel } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: NotificationLevel = "2";
 ```

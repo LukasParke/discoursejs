@@ -16,7 +16,7 @@ Creates a new topic, a new post, or a private message
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -39,8 +39,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { privateMessagesCreateTopicPostPM } from "@lukehagar/discoursejs/funcs/privateMessagesCreateTopicPostPM.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { privateMessagesCreateTopicPostPM } from "@parke.dev/discoursejs/funcs/privateMessagesCreateTopicPostPM.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -93,7 +93,7 @@ Get a list of private messages sent for a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -112,8 +112,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { privateMessagesGetUserSentPrivateMessages } from "@lukehagar/discoursejs/funcs/privateMessagesGetUserSentPrivateMessages.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { privateMessagesGetUserSentPrivateMessages } from "@parke.dev/discoursejs/funcs/privateMessagesGetUserSentPrivateMessages.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -162,7 +162,7 @@ Get a list of private messages for a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -181,8 +181,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { privateMessagesListUserPrivateMessages } from "@lukehagar/discoursejs/funcs/privateMessagesListUserPrivateMessages.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { privateMessagesListUserPrivateMessages } from "@parke.dev/discoursejs/funcs/privateMessagesListUserPrivateMessages.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

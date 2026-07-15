@@ -37,7 +37,7 @@ Activate a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -56,8 +56,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersActivateUser } from "@lukehagar/discoursejs/funcs/usersActivateUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersActivateUser } from "@parke.dev/discoursejs/funcs/usersActivateUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -106,7 +106,7 @@ Get a user by id
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -125,8 +125,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersAdminGetUser } from "@lukehagar/discoursejs/funcs/usersAdminGetUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersAdminGetUser } from "@parke.dev/discoursejs/funcs/usersAdminGetUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -175,7 +175,7 @@ Get a list of users
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -196,8 +196,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersAdminListUsers } from "@lukehagar/discoursejs/funcs/usersAdminListUsers.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersAdminListUsers } from "@parke.dev/discoursejs/funcs/usersAdminListUsers.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -248,7 +248,7 @@ Anonymize a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -267,8 +267,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersAnonymizeUser } from "@lukehagar/discoursejs/funcs/usersAnonymizeUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersAnonymizeUser } from "@parke.dev/discoursejs/funcs/usersAnonymizeUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -317,7 +317,7 @@ Change password
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -333,8 +333,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersChangePassword } from "@lukehagar/discoursejs/funcs/usersChangePassword.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersChangePassword } from "@parke.dev/discoursejs/funcs/usersChangePassword.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -383,7 +383,7 @@ Creates a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -402,8 +402,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersCreateUser } from "@lukehagar/discoursejs/funcs/usersCreateUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersCreateUser } from "@parke.dev/discoursejs/funcs/usersCreateUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -454,7 +454,7 @@ Deactivate a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -473,8 +473,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersDeactivateUser } from "@lukehagar/discoursejs/funcs/usersDeactivateUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersDeactivateUser } from "@parke.dev/discoursejs/funcs/usersDeactivateUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -523,7 +523,7 @@ Delete a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -542,8 +542,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersDeleteUser } from "@lukehagar/discoursejs/funcs/usersDeleteUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersDeleteUser } from "@parke.dev/discoursejs/funcs/usersDeleteUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -593,7 +593,7 @@ Get a single user by username
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -612,8 +612,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersGetUser } from "@lukehagar/discoursejs/funcs/usersGetUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersGetUser } from "@parke.dev/discoursejs/funcs/usersGetUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -664,7 +664,7 @@ Get email addresses belonging to a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -683,8 +683,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersGetUserEmails } from "@lukehagar/discoursejs/funcs/usersGetUserEmails.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersGetUserEmails } from "@parke.dev/discoursejs/funcs/usersGetUserEmails.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -733,7 +733,7 @@ Get a user by external_id
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -752,8 +752,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersGetUserExternalId } from "@lukehagar/discoursejs/funcs/usersGetUserExternalId.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersGetUserExternalId } from "@parke.dev/discoursejs/funcs/usersGetUserExternalId.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -804,7 +804,7 @@ Get a user by identity provider external ID
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -823,8 +823,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersGetUserIdentiyProviderExternalId } from "@lukehagar/discoursejs/funcs/usersGetUserIdentiyProviderExternalId.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersGetUserIdentiyProviderExternalId } from "@parke.dev/discoursejs/funcs/usersGetUserIdentiyProviderExternalId.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -876,7 +876,7 @@ Get a list of user actions
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -895,8 +895,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersListUserActions } from "@lukehagar/discoursejs/funcs/usersListUserActions.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersListUserActions } from "@parke.dev/discoursejs/funcs/usersListUserActions.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -947,7 +947,7 @@ List badges for a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -966,8 +966,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersListUserBadges } from "@lukehagar/discoursejs/funcs/usersListUserBadges.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersListUserBadges } from "@parke.dev/discoursejs/funcs/usersListUserBadges.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1016,7 +1016,7 @@ Get a public list of users
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1035,8 +1035,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersListUsersPublic } from "@lukehagar/discoursejs/funcs/usersListUsersPublic.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersListUsersPublic } from "@parke.dev/discoursejs/funcs/usersListUsersPublic.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1088,7 +1088,7 @@ Log a user out
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1107,8 +1107,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersLogOutUser } from "@lukehagar/discoursejs/funcs/usersLogOutUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersLogOutUser } from "@parke.dev/discoursejs/funcs/usersLogOutUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1157,7 +1157,7 @@ Refresh gravatar
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1176,8 +1176,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersRefreshGravatar } from "@lukehagar/discoursejs/funcs/usersRefreshGravatar.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersRefreshGravatar } from "@parke.dev/discoursejs/funcs/usersRefreshGravatar.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1226,7 +1226,7 @@ Send password reset email
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1245,8 +1245,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersSendPasswordResetEmail } from "@lukehagar/discoursejs/funcs/usersSendPasswordResetEmail.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersSendPasswordResetEmail } from "@parke.dev/discoursejs/funcs/usersSendPasswordResetEmail.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1295,7 +1295,7 @@ Silence a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1317,8 +1317,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersSilenceUser } from "@lukehagar/discoursejs/funcs/usersSilenceUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersSilenceUser } from "@parke.dev/discoursejs/funcs/usersSilenceUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1371,7 +1371,7 @@ Suspend a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1394,8 +1394,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersSuspendUser } from "@lukehagar/discoursejs/funcs/usersSuspendUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersSuspendUser } from "@parke.dev/discoursejs/funcs/usersSuspendUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1449,7 +1449,7 @@ Update avatar
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1468,8 +1468,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersUpdateAvatar } from "@lukehagar/discoursejs/funcs/usersUpdateAvatar.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersUpdateAvatar } from "@parke.dev/discoursejs/funcs/usersUpdateAvatar.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1519,7 +1519,7 @@ Update email
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1535,8 +1535,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersUpdateEmail } from "@lukehagar/discoursejs/funcs/usersUpdateEmail.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersUpdateEmail } from "@parke.dev/discoursejs/funcs/usersUpdateEmail.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1585,7 +1585,7 @@ Update a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1604,8 +1604,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersUpdateUser } from "@lukehagar/discoursejs/funcs/usersUpdateUser.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersUpdateUser } from "@parke.dev/discoursejs/funcs/usersUpdateUser.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -1657,7 +1657,7 @@ Update username
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -1673,8 +1673,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { usersUpdateUsername } from "@lukehagar/discoursejs/funcs/usersUpdateUsername.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { usersUpdateUsername } from "@parke.dev/discoursejs/funcs/usersUpdateUsername.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

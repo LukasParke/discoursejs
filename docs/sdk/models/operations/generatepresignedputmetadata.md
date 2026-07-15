@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GeneratePresignedPutMetadata } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GeneratePresignedPutMetadata } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GeneratePresignedPutMetadata = {};
 ```

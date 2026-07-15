@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { ReplyToUser } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ReplyToUser } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ReplyToUser = {
   avatarTemplate: "<value>",

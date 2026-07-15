@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { AnonymizeUserResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { AnonymizeUserResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: AnonymizeUserResponseBody = {
   success: "<value>",

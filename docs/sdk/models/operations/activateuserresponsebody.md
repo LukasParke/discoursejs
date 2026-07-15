@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { ActivateUserResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ActivateUserResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ActivateUserResponseBody = {
   success: "OK",

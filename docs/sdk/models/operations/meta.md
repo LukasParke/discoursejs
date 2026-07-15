@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Meta } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Meta } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Meta = {
   limit: 93940,

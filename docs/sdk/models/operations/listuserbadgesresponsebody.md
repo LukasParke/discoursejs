@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { ListUserBadgesResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListUserBadgesResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListUserBadgesResponseBody = {
   userBadges: [

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { TrustLevels } from "@lukehagar/discoursejs/sdk/models/operations";
+import { TrustLevels } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: TrustLevels = {
   basic: 238413,

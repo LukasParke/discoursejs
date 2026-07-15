@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UserColorSchemes } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UserColorSchemes } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UserColorSchemes = {
   id: 928219,

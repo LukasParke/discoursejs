@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Type } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Type } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Type = "profile_background";
 ```

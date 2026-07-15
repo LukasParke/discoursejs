@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { SuspendUserResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SuspendUserResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SuspendUserResponseBody = {
   suspension: {

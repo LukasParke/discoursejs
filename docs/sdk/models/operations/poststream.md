@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { PostStream } from "@lukehagar/discoursejs/sdk/models/operations";
+import { PostStream } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: PostStream = {
   posts: [

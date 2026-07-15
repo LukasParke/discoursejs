@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CreateGroupRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateGroupRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateGroupRequestBody = {
   group: {

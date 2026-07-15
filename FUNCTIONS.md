@@ -19,9 +19,9 @@ specific category of applications.
 ## Example
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { backupsCreateBackup } from "@lukehagar/discoursejs/funcs/backupsCreateBackup.js";
-import { SDKValidationError } from "@lukehagar/discoursejs/sdk/models/errors/sdkvalidationerror.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { backupsCreateBackup } from "@parke.dev/discoursejs/funcs/backupsCreateBackup.js";
+import { SDKValidationError } from "@parke.dev/discoursejs/sdk/models/errors/sdkvalidationerror.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

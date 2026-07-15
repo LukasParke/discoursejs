@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { SuspendUserRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SuspendUserRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SuspendUserRequestBody = {
   postAction: "delete",

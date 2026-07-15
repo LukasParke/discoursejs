@@ -21,7 +21,7 @@ Creates a new topic, a new post, or a private message
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -44,8 +44,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsCreateTopicPostPM } from "@lukehagar/discoursejs/funcs/postsCreateTopicPostPM.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsCreateTopicPostPM } from "@parke.dev/discoursejs/funcs/postsCreateTopicPostPM.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -98,7 +98,7 @@ delete a single post
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -116,8 +116,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsDeletePost } from "@lukehagar/discoursejs/funcs/postsDeletePost.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsDeletePost } from "@parke.dev/discoursejs/funcs/postsDeletePost.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -173,7 +173,7 @@ refer to various different flag types.
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -192,8 +192,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsGetPost } from "@lukehagar/discoursejs/funcs/postsGetPost.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsGetPost } from "@parke.dev/discoursejs/funcs/postsGetPost.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -242,7 +242,7 @@ List latest posts across topics
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -261,8 +261,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsListPosts } from "@lukehagar/discoursejs/funcs/postsListPosts.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsListPosts } from "@parke.dev/discoursejs/funcs/postsListPosts.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -313,7 +313,7 @@ Lock a post from being edited
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -332,8 +332,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsLockPost } from "@lukehagar/discoursejs/funcs/postsLockPost.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsLockPost } from "@parke.dev/discoursejs/funcs/postsLockPost.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -385,7 +385,7 @@ Like a post and other actions
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -404,8 +404,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsPerformPostAction } from "@lukehagar/discoursejs/funcs/postsPerformPostAction.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsPerformPostAction } from "@parke.dev/discoursejs/funcs/postsPerformPostAction.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -456,7 +456,7 @@ List replies to a post
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -475,8 +475,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsPostReplies } from "@lukehagar/discoursejs/funcs/postsPostReplies.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsPostReplies } from "@parke.dev/discoursejs/funcs/postsPostReplies.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -525,7 +525,7 @@ Update a single post
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -544,8 +544,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { postsUpdatePost } from "@lukehagar/discoursejs/funcs/postsUpdatePost.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { postsUpdatePost } from "@parke.dev/discoursejs/funcs/postsUpdatePost.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

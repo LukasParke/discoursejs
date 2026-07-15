@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { AnonymizeUserRequest } from "@lukehagar/discoursejs/sdk/models/operations";
+import { AnonymizeUserRequest } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: AnonymizeUserRequest = {
   id: 783645,

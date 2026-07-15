@@ -32,7 +32,7 @@ be set to true for this endpoint to function.
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -53,8 +53,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { uploadsAbortMultipart } from "@lukehagar/discoursejs/funcs/uploadsAbortMultipart.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { uploadsAbortMultipart } from "@parke.dev/discoursejs/funcs/uploadsAbortMultipart.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -126,7 +126,7 @@ be set to true for this endpoint to function.
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -152,8 +152,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { uploadsBatchPresignMultipartParts } from "@lukehagar/discoursejs/funcs/uploadsBatchPresignMultipartParts.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { uploadsBatchPresignMultipartParts } from "@parke.dev/discoursejs/funcs/uploadsBatchPresignMultipartParts.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -226,7 +226,7 @@ be set to true for this endpoint to function.
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -250,8 +250,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { uploadsCompleteExternalUpload } from "@lukehagar/discoursejs/funcs/uploadsCompleteExternalUpload.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { uploadsCompleteExternalUpload } from "@parke.dev/discoursejs/funcs/uploadsCompleteExternalUpload.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -319,7 +319,7 @@ be set to true for this endpoint to function.
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -350,8 +350,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { uploadsCompleteMultipart } from "@lukehagar/discoursejs/funcs/uploadsCompleteMultipart.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { uploadsCompleteMultipart } from "@parke.dev/discoursejs/funcs/uploadsCompleteMultipart.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -423,7 +423,7 @@ be set to true for this endpoint to function.
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -446,8 +446,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { uploadsCreateMultipartUpload } from "@lukehagar/discoursejs/funcs/uploadsCreateMultipartUpload.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { uploadsCreateMultipartUpload } from "@parke.dev/discoursejs/funcs/uploadsCreateMultipartUpload.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -500,7 +500,7 @@ Creates an upload
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -519,8 +519,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { uploadsCreateUpload } from "@lukehagar/discoursejs/funcs/uploadsCreateUpload.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { uploadsCreateUpload } from "@parke.dev/discoursejs/funcs/uploadsCreateUpload.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -589,7 +589,7 @@ be set to true for this endpoint to function.
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -612,8 +612,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { uploadsGeneratePresignedPut } from "@lukehagar/discoursejs/funcs/uploadsGeneratePresignedPut.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { uploadsGeneratePresignedPut } from "@parke.dev/discoursejs/funcs/uploadsGeneratePresignedPut.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

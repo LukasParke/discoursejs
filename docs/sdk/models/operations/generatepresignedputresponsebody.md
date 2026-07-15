@@ -5,7 +5,7 @@ external upload initialized
 ## Example Usage
 
 ```typescript
-import { GeneratePresignedPutResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GeneratePresignedPutResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GeneratePresignedPutResponseBody = {
   key: "temp/site/uploads/default/12345/67890.jpg",

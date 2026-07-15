@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GetSiteGroups } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetSiteGroups } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetSiteGroups = {
   flairBgColor: "<value>",

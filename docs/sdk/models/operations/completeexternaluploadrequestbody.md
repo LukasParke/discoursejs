@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CompleteExternalUploadRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CompleteExternalUploadRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CompleteExternalUploadRequestBody = {
   forPrivateMessage: "true",

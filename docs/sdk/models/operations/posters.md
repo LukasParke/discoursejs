@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Posters } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Posters } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Posters = {
   description: "Operative composite product",

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GetTopicActionsSummary } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetTopicActionsSummary } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetTopicActionsSummary = {
   canAct: false,

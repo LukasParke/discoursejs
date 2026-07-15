@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CreateMultipartUploadRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateMultipartUploadRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateMultipartUploadRequestBody = {
   fileName: "IMG_2021.jpeg",

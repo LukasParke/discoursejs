@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateUsernameRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateUsernameRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateUsernameRequestBody = {
   newUsername: "<value>",

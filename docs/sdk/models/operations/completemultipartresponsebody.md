@@ -5,7 +5,7 @@ external upload initialized
 ## Example Usage
 
 ```typescript
-import { CompleteMultipartResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CompleteMultipartResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CompleteMultipartResponseBody = {
   extension: "png",

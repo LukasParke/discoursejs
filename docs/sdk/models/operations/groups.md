@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Groups } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Groups } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Groups = {
   allowMembershipRequests: false,

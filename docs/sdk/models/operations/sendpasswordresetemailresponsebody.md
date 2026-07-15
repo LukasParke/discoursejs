@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { SendPasswordResetEmailResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SendPasswordResetEmailResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SendPasswordResetEmailResponseBody = {
   success: "<value>",

@@ -5,7 +5,7 @@ private messages
 ## Example Usage
 
 ```typescript
-import { GetUserSentPrivateMessagesResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserSentPrivateMessagesResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserSentPrivateMessagesResponseBody = {};
 ```

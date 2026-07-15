@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { SearchResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SearchResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SearchResponseBody = {
   categories: [

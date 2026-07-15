@@ -5,7 +5,7 @@ post updated
 ## Example Usage
 
 ```typescript
-import { UpdatePostResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdatePostResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdatePostResponseBody = {
   post: {

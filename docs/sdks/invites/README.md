@@ -15,7 +15,7 @@ Create an invite
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -39,8 +39,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { invitesCreateInvite } from "@lukehagar/discoursejs/funcs/invitesCreateInvite.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { invitesCreateInvite } from "@parke.dev/discoursejs/funcs/invitesCreateInvite.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -96,7 +96,7 @@ Invite to topic
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -115,8 +115,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { invitesInviteToTopic } from "@lukehagar/discoursejs/funcs/invitesInviteToTopic.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { invitesInviteToTopic } from "@parke.dev/discoursejs/funcs/invitesInviteToTopic.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

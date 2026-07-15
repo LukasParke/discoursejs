@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { SilencedBy } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SilencedBy } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SilencedBy = {
   avatarTemplate: "<value>",

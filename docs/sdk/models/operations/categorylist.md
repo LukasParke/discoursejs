@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CategoryList } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CategoryList } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CategoryList = {
   canCreateCategory: false,

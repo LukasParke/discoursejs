@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Triggers } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Triggers } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Triggers = {
   none: 592845,

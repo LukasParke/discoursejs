@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CreateTopicPostPMRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateTopicPostPMRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateTopicPostPMRequestBody = {
   archetype: "private_message",

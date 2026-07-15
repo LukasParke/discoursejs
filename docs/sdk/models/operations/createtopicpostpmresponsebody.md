@@ -5,7 +5,7 @@ post created
 ## Example Usage
 
 ```typescript
-import { CreateTopicPostPMResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateTopicPostPMResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateTopicPostPMResponseBody = {
   actionsSummary: [

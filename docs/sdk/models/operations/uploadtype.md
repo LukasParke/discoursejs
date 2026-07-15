@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UploadType } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UploadType } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UploadType = "avatar";
 ```

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GetUserIdentiyProviderExternalIdRequest } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserIdentiyProviderExternalIdRequest } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserIdentiyProviderExternalIdRequest = {
   apiKey: "<value>",

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateCategoryRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateCategoryRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateCategoryRequestBody = {
   color: "49d9e9",

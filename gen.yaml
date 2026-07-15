@@ -34,7 +34,7 @@ typescript:
   methodArguments: require-security-and-request
   moduleFormat: commonjs
   outputModelSuffix: output
-  packageName: '@lukehagar/discoursejs'
+  packageName: '@parke.dev/discoursejs'
   responseFormat: flat
   templateVersion: v2
   useIndexModules: true

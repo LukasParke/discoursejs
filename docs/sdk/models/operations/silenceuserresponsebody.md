@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { SilenceUserResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SilenceUserResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SilenceUserResponseBody = {
   silence: {

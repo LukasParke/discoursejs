@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { PenaltyCounts } from "@lukehagar/discoursejs/sdk/models/operations";
+import { PenaltyCounts } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: PenaltyCounts = {
   silenced: 618016,

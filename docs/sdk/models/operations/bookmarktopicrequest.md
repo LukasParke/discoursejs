@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { BookmarkTopicRequest } from "@lukehagar/discoursejs/sdk/models/operations";
+import { BookmarkTopicRequest } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: BookmarkTopicRequest = {
   apiKey: "<value>",

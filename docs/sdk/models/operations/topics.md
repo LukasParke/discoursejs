@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Topics } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Topics } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Topics = {
   archetype: "<value>",

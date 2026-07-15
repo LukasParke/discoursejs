@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Badges } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Badges } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Badges = {
   allowTitle: false,

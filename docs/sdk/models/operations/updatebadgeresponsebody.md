@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { UpdateBadgeResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateBadgeResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateBadgeResponseBody = {
   badge: {

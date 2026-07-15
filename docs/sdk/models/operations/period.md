@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Period } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Period } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Period = "weekly";
 ```

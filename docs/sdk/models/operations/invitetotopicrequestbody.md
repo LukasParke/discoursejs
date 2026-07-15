@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { InviteToTopicRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { InviteToTopicRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: InviteToTopicRequestBody = {};
 ```

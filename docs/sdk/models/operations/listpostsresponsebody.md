@@ -5,7 +5,7 @@ latest posts
 ## Example Usage
 
 ```typescript
-import { ListPostsResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListPostsResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListPostsResponseBody = {};
 ```

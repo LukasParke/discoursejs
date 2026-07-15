@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Suspension } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Suspension } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Suspension = {
   fullSuspendReason: "<value>",

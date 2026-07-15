@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GeneratePresignedPutType } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GeneratePresignedPutType } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GeneratePresignedPutType = "card_background";
 ```

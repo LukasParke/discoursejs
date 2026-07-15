@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { AdminGetUserResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { AdminGetUserResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: AdminGetUserResponseBody = {
   active: false,

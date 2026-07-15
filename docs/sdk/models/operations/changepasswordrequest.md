@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { ChangePasswordRequest } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ChangePasswordRequest } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ChangePasswordRequest = {
   token: "<value>",

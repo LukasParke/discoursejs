@@ -65,5 +65,5 @@ export const SDK_METADATA = {
   sdkVersion: "0.10.2",
   genVersion: "2.416.6",
   userAgent:
-    "speakeasy-sdk/typescript 0.10.2 2.416.6 latest @lukehagar/discoursejs",
+    "speakeasy-sdk/typescript 0.10.2 2.416.6 latest @parke.dev/discoursejs",
 } as const;

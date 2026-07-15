@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { UpdateTagGroupRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateTagGroupRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateTagGroupRequestBody = {};
 ```

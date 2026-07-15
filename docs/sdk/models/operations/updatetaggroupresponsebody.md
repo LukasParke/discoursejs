@@ -5,7 +5,7 @@ Tag group updated
 ## Example Usage
 
 ```typescript
-import { UpdateTagGroupResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateTagGroupResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateTagGroupResponseBody = {};
 ```

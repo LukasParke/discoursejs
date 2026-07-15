@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { ListUsersPublicMeta } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListUsersPublicMeta } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListUsersPublicMeta = {
   lastUpdatedAt: "<value>",

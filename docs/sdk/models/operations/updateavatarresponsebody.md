@@ -5,7 +5,7 @@ avatar updated
 ## Example Usage
 
 ```typescript
-import { UpdateAvatarResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateAvatarResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateAvatarResponseBody = {
   success: "OK",

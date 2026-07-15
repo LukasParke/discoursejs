@@ -5,7 +5,7 @@ post updated
 ## Example Usage
 
 ```typescript
-import { PerformPostActionResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { PerformPostActionResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: PerformPostActionResponseBody = {};
 ```

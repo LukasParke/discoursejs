@@ -5,7 +5,7 @@ response
 ## Example Usage
 
 ```typescript
-import { DeleteGroupResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { DeleteGroupResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: DeleteGroupResponseBody = {
   success: "OK",

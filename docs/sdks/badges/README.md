@@ -18,7 +18,7 @@ List badges
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -37,8 +37,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { badgesAdminListBadges } from "@lukehagar/discoursejs/funcs/badgesAdminListBadges.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { badgesAdminListBadges } from "@parke.dev/discoursejs/funcs/badgesAdminListBadges.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -86,7 +86,7 @@ Create badge
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -105,8 +105,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { badgesCreateBadge } from "@lukehagar/discoursejs/funcs/badgesCreateBadge.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { badgesCreateBadge } from "@parke.dev/discoursejs/funcs/badgesCreateBadge.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -155,7 +155,7 @@ Delete badge
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -171,8 +171,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { badgesDeleteBadge } from "@lukehagar/discoursejs/funcs/badgesDeleteBadge.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { badgesDeleteBadge } from "@parke.dev/discoursejs/funcs/badgesDeleteBadge.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -220,7 +220,7 @@ List badges for a user
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -239,8 +239,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { badgesListUserBadges } from "@lukehagar/discoursejs/funcs/badgesListUserBadges.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { badgesListUserBadges } from "@parke.dev/discoursejs/funcs/badgesListUserBadges.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -289,7 +289,7 @@ Update badge
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -308,8 +308,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { badgesUpdateBadge } from "@lukehagar/discoursejs/funcs/badgesUpdateBadge.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { badgesUpdateBadge } from "@parke.dev/discoursejs/funcs/badgesUpdateBadge.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

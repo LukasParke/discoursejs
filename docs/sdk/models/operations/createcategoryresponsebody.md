@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { CreateCategoryResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateCategoryResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateCategoryResponseBody = {
   category: {

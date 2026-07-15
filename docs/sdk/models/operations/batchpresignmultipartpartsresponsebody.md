@@ -5,7 +5,7 @@ external upload initialized
 ## Example Usage
 
 ```typescript
-import { BatchPresignMultipartPartsResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { BatchPresignMultipartPartsResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: BatchPresignMultipartPartsResponseBody = {
   presignedUrls: {},

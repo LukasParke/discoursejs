@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CreateUploadRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateUploadRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 // No examples available for this model
 ```

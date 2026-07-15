@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CreateBackupRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateBackupRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateBackupRequestBody = {
   withUploads: false,

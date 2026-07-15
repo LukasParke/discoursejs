@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { TopicList } from "@lukehagar/discoursejs/sdk/models/operations";
+import { TopicList } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: TopicList = {
   canCreateTopic: false,

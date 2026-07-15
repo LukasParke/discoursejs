@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { ListTopTopicsPosters } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListTopTopicsPosters } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListTopTopicsPosters = {};
 ```

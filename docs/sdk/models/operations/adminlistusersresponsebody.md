@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { AdminListUsersResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { AdminListUsersResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: AdminListUsersResponseBody = {
   active: false,

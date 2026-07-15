@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CreateTopicTimerRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateTopicTimerRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateTopicTimerRequestBody = {
   time: "",

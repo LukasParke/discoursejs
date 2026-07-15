@@ -1,5 +1,5 @@
 {
-  "name": "@lukehagar/discoursejs",
+  "name": "@parke.dev/discoursejs",
   "version": "0.10.2",
   "author": "LukeHagar",
   "main": "./index.js",

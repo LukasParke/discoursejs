@@ -1,4 +1,4 @@
-# @lukehagar/discoursejs
+# @parke.dev/discoursejs
 
 <div align="left">
     <a href="https://speakeasyapi.dev/"><img src="https://custom-icon-badges.demolab.com/badge/-Built%20By%20Speakeasy-212015?style=for-the-badge&logoColor=FBE331&logo=speakeasy&labelColor=545454" /></a>
@@ -92,25 +92,25 @@ The SDK can be installed with either [npm](https://www.npmjs.com/), [pnpm](https
 ### NPM
 
 ```bash
-npm add @lukehagar/discoursejs
+npm add @parke.dev/discoursejs
 ```
 
 ### PNPM
 
 ```bash
-pnpm add @lukehagar/discoursejs
+pnpm add @parke.dev/discoursejs
 ```
 
 ### Bun
 
 ```bash
-bun add @lukehagar/discoursejs
+bun add @parke.dev/discoursejs
 ```
 
 ### Yarn
 
 ```bash
-yarn add @lukehagar/discoursejs zod
+yarn add @parke.dev/discoursejs zod
 
 # Note that Yarn does not install peer dependencies automatically. You will need
 # to install zod as shown above.
@@ -123,7 +123,7 @@ yarn add @lukehagar/discoursejs zod
 ### Example
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -307,8 +307,8 @@ Validation errors can also occur when either method arguments or data returned f
 
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
-import { SDKValidationError } from "@lukehagar/discoursejs/sdk/models/errors";
+import { SDK } from "@parke.dev/discoursejs";
+import { SDKValidationError } from "@parke.dev/discoursejs/sdk/models/errors";
 
 const sdk = new SDK();
 
@@ -352,7 +352,7 @@ You can override the default server globally by passing a server index to the `s
 | 0 | `https://{defaultHost}` | `defaultHost` (default is `discourse.example.com`) |
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK({
   serverIdx: 0,
@@ -379,7 +379,7 @@ Some of the server options above contain variables. If you want to set the value
 The default server can also be overridden globally by passing a URL to the `serverURL` optional parameter when initializing the SDK client instance. For example:
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK({
   serverURL: "https://{defaultHost}",
@@ -415,8 +415,8 @@ custom header and a timeout to requests and how to use the `"requestError"` hook
 to log errors:
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
-import { HTTPClient } from "@lukehagar/discoursejs/lib/http";
+import { SDK } from "@parke.dev/discoursejs";
+import { HTTPClient } from "@parke.dev/discoursejs/lib/http";
 
 const httpClient = new HTTPClient({
   // fetcher takes a function that has the same signature as native `fetch`.
@@ -467,7 +467,7 @@ Certain SDK methods accept files as part of a multi-part request. It is possible
 > - **Node.js v18:** A file stream can be created using the `fileFrom` helper from [`fetch-blob/from.js`](https://www.npmjs.com/package/fetch-blob).
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -490,7 +490,7 @@ Some of the endpoints in this SDK support retries.  If you use the SDK without a
 
 To change the default retry strategy for a single API call, simply provide a retryConfig object to the call:
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -518,7 +518,7 @@ run();
 
 If you'd like to override the default retry strategy for all operations that support retries, you can provide a retryConfig at SDK initialization:
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK({
   retryConfig: {
@@ -556,7 +556,7 @@ You can pass a logger that matches `console`'s interface as an SDK option.
 > Beware that debug logging will reveal secrets, like API tokens in headers, in log messages printed to a console or files. It's recommended to use this feature only during local development and not in production.
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK({ debugLogger: console });
 ```

@@ -28,7 +28,7 @@ Based on:
 ### Generated
 - [typescript v0.2.0] .
 ### Releases
-- [NPM v0.2.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.2.0 - .
+- [NPM v0.2.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.2.0 - .
 
 ## 2024-01-15 15:25:48
 ### Changes
@@ -38,7 +38,7 @@ Based on:
 ### Generated
 - [typescript v0.2.1] .
 ### Releases
-- [NPM v0.2.1] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.2.1 - .
+- [NPM v0.2.1] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.2.1 - .
 
 ## 2024-01-19 18:13:48
 ### Changes
@@ -48,7 +48,7 @@ Based on:
 ### Generated
 - [typescript v0.2.2] .
 ### Releases
-- [NPM v0.2.2] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.2.2 - .
+- [NPM v0.2.2] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.2.2 - .
 
 ## 2024-01-19 19:32:18
 ### Changes
@@ -58,7 +58,7 @@ Based on:
 ### Generated
 - [typescript v0.3.0] .
 ### Releases
-- [NPM v0.3.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.3.0 - .
+- [NPM v0.3.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.3.0 - .
 
 ## 2024-01-19 20:23:24
 ### Changes
@@ -68,7 +68,7 @@ Based on:
 ### Generated
 - [typescript v0.4.0] .
 ### Releases
-- [NPM v0.4.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.0 - .
+- [NPM v0.4.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.0 - .
 
 ## 2024-02-13 01:08:58
 ### Changes
@@ -78,7 +78,7 @@ Based on:
 ### Generated
 - [typescript v0.4.1] .
 ### Releases
-- [NPM v0.4.1] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.1 - .
+- [NPM v0.4.1] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.1 - .
 
 ## 2024-02-15 01:08:35
 ### Changes
@@ -88,7 +88,7 @@ Based on:
 ### Generated
 - [typescript v0.4.2] .
 ### Releases
-- [NPM v0.4.2] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.2 - .
+- [NPM v0.4.2] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.2 - .
 
 ## 2024-02-25 01:12:22
 ### Changes
@@ -98,7 +98,7 @@ Based on:
 ### Generated
 - [typescript v0.4.3] .
 ### Releases
-- [NPM v0.4.3] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.3 - .
+- [NPM v0.4.3] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.3 - .
 
 ## 2024-03-13 01:09:43
 ### Changes
@@ -108,7 +108,7 @@ Based on:
 ### Generated
 - [typescript v0.4.4] .
 ### Releases
-- [NPM v0.4.4] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.4 - .
+- [NPM v0.4.4] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.4 - .
 
 ## 2024-05-03 01:14:30
 ### Changes
@@ -118,7 +118,7 @@ Based on:
 ### Generated
 - [typescript v0.4.5] .
 ### Releases
-- [NPM v0.4.5] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.5 - .
+- [NPM v0.4.5] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.5 - .
 
 ## 2024-06-22 00:20:48
 ### Changes
@@ -128,7 +128,7 @@ Based on:
 ### Generated
 - [typescript v0.4.6] .
 ### Releases
-- [NPM v0.4.6] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.6 - .
+- [NPM v0.4.6] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.6 - .
 
 ## 2024-07-11 00:22:19
 ### Changes
@@ -138,7 +138,7 @@ Based on:
 ### Generated
 - [typescript v0.4.7] .
 ### Releases
-- [NPM v0.4.7] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.7 - .
+- [NPM v0.4.7] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.7 - .
 
 ## 2024-07-17 00:22:17
 ### Changes
@@ -148,7 +148,7 @@ Based on:
 ### Generated
 - [typescript v0.4.8] .
 ### Releases
-- [NPM v0.4.8] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.8 - .
+- [NPM v0.4.8] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.8 - .
 
 ## 2024-07-24 00:22:59
 ### Changes
@@ -158,7 +158,7 @@ Based on:
 ### Generated
 - [typescript v0.4.9] .
 ### Releases
-- [NPM v0.4.9] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.9 - .
+- [NPM v0.4.9] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.9 - .
 
 ## 2024-07-26 00:21:46
 ### Changes
@@ -168,7 +168,7 @@ Based on:
 ### Generated
 - [typescript v0.4.10] .
 ### Releases
-- [NPM v0.4.10] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.4.10 - .
+- [NPM v0.4.10] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.4.10 - .
 
 ## 2024-08-09 00:22:32
 ### Changes
@@ -178,7 +178,7 @@ Based on:
 ### Generated
 - [typescript v0.5.0] .
 ### Releases
-- [NPM v0.5.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.5.0 - .
+- [NPM v0.5.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.5.0 - .
 
 ## 2024-08-10 00:22:12
 ### Changes
@@ -188,7 +188,7 @@ Based on:
 ### Generated
 - [typescript v0.6.0] .
 ### Releases
-- [NPM v0.6.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.6.0 - .
+- [NPM v0.6.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.6.0 - .
 
 ## 2024-08-11 00:24:53
 ### Changes
@@ -198,7 +198,7 @@ Based on:
 ### Generated
 - [typescript v0.6.1] .
 ### Releases
-- [NPM v0.6.1] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.6.1 - .
+- [NPM v0.6.1] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.6.1 - .
 
 ## 2024-08-15 00:21:58
 ### Changes
@@ -208,7 +208,7 @@ Based on:
 ### Generated
 - [typescript v0.6.2] .
 ### Releases
-- [NPM v0.6.2] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.6.2 - .
+- [NPM v0.6.2] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.6.2 - .
 
 ## 2024-08-17 00:21:44
 ### Changes
@@ -218,7 +218,7 @@ Based on:
 ### Generated
 - [typescript v0.6.3] .
 ### Releases
-- [NPM v0.6.3] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.6.3 - .
+- [NPM v0.6.3] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.6.3 - .
 
 ## 2024-08-20 00:22:26
 ### Changes
@@ -228,7 +228,7 @@ Based on:
 ### Generated
 - [typescript v0.7.0] .
 ### Releases
-- [NPM v0.7.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.7.0 - .
+- [NPM v0.7.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.7.0 - .
 
 ## 2024-08-24 00:22:00
 ### Changes
@@ -238,7 +238,7 @@ Based on:
 ### Generated
 - [typescript v0.7.1] .
 ### Releases
-- [NPM v0.7.1] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.7.1 - .
+- [NPM v0.7.1] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.7.1 - .
 
 ## 2024-08-31 00:23:16
 ### Changes
@@ -248,7 +248,7 @@ Based on:
 ### Generated
 - [typescript v0.7.2] .
 ### Releases
-- [NPM v0.7.2] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.7.2 - .
+- [NPM v0.7.2] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.7.2 - .
 
 ## 2024-09-04 00:23:41
 ### Changes
@@ -258,7 +258,7 @@ Based on:
 ### Generated
 - [typescript v0.8.0] .
 ### Releases
-- [NPM v0.8.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.8.0 - .
+- [NPM v0.8.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.8.0 - .
 
 ## 2024-09-06 00:23:49
 ### Changes
@@ -268,7 +268,7 @@ Based on:
 ### Generated
 - [typescript v0.8.1] .
 ### Releases
-- [NPM v0.8.1] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.8.1 - .
+- [NPM v0.8.1] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.8.1 - .
 
 ## 2024-09-07 00:22:57
 ### Changes
@@ -278,7 +278,7 @@ Based on:
 ### Generated
 - [typescript v0.8.2] .
 ### Releases
-- [NPM v0.8.2] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.8.2 - .
+- [NPM v0.8.2] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.8.2 - .
 
 ## 2024-09-10 00:24:11
 ### Changes
@@ -288,7 +288,7 @@ Based on:
 ### Generated
 - [typescript v0.9.0] .
 ### Releases
-- [NPM v0.9.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.9.0 - .
+- [NPM v0.9.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.9.0 - .
 
 ## 2024-09-13 00:23:58
 ### Changes
@@ -298,7 +298,7 @@ Based on:
 ### Generated
 - [typescript v0.10.0] .
 ### Releases
-- [NPM v0.10.0] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.10.0 - .
+- [NPM v0.10.0] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.10.0 - .
 
 ## 2024-09-14 00:23:24
 ### Changes
@@ -308,7 +308,7 @@ Based on:
 ### Generated
 - [typescript v0.10.1] .
 ### Releases
-- [NPM v0.10.1] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.10.1 - .
+- [NPM v0.10.1] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.10.1 - .
 
 ## 2024-09-19 00:24:16
 ### Changes
@@ -318,4 +318,4 @@ Based on:
 ### Generated
 - [typescript v0.10.2] .
 ### Releases
-- [NPM v0.10.2] https://www.npmjs.com/package/@lukehagar/discoursejs/v/0.10.2 - .
+- [NPM v0.10.2] https://www.npmjs.com/package/@parke.dev/discoursejs/v/0.10.2 - .

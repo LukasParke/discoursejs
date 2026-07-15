@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CompleteMultipartRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CompleteMultipartRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CompleteMultipartRequestBody = {
   parts: [

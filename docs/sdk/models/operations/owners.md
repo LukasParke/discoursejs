@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Owners } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Owners } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Owners = {
   addedAt: "<value>",

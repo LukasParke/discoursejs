@@ -5,7 +5,7 @@ success response
 ## Example Usage
 
 ```typescript
-import { CreateBackupResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CreateBackupResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CreateBackupResponseBody = {
   success: "OK",

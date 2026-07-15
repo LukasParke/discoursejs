@@ -5,7 +5,7 @@ single post
 ## Example Usage
 
 ```typescript
-import { GetPostResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetPostResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetPostResponseBody = {
   actionsSummary: [

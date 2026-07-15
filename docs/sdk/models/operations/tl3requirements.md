@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { Tl3Requirements } from "@lukehagar/discoursejs/sdk/models/operations";
+import { Tl3Requirements } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: Tl3Requirements = {
   daysVisited: 102863,

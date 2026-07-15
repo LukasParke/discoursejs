@@ -5,7 +5,7 @@ topic updated
 ## Example Usage
 
 ```typescript
-import { UpdateTopicResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { UpdateTopicResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: UpdateTopicResponseBody = {};
 ```

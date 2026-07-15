@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { CensoredRegexp } from "@lukehagar/discoursejs/sdk/models/operations";
+import { CensoredRegexp } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: CensoredRegexp = {};
 ```

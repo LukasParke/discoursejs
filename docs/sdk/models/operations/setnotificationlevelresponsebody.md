@@ -5,7 +5,7 @@ topic updated
 ## Example Usage
 
 ```typescript
-import { SetNotificationLevelResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { SetNotificationLevelResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: SetNotificationLevelResponseBody = {
   success: "OK",

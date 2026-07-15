@@ -19,7 +19,7 @@ Creates a category
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -48,8 +48,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { categoriesCreateCategory } from "@lukehagar/discoursejs/funcs/categoriesCreateCategory.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { categoriesCreateCategory } from "@parke.dev/discoursejs/funcs/categoriesCreateCategory.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -108,7 +108,7 @@ Show category
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -127,8 +127,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { categoriesGetCategory } from "@lukehagar/discoursejs/funcs/categoriesGetCategory.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { categoriesGetCategory } from "@parke.dev/discoursejs/funcs/categoriesGetCategory.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -177,7 +177,7 @@ Can be used to fetch all categories and subcategories
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -196,8 +196,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { categoriesGetSite } from "@lukehagar/discoursejs/funcs/categoriesGetSite.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { categoriesGetSite } from "@parke.dev/discoursejs/funcs/categoriesGetSite.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -245,7 +245,7 @@ Retrieves a list of categories
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -264,8 +264,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { categoriesListCategories } from "@lukehagar/discoursejs/funcs/categoriesListCategories.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { categoriesListCategories } from "@parke.dev/discoursejs/funcs/categoriesListCategories.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -314,7 +314,7 @@ List topics
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -333,8 +333,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { categoriesListCategoryTopics } from "@lukehagar/discoursejs/funcs/categoriesListCategoryTopics.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { categoriesListCategoryTopics } from "@parke.dev/discoursejs/funcs/categoriesListCategoryTopics.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.
@@ -384,7 +384,7 @@ Updates a category
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -413,8 +413,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { categoriesUpdateCategory } from "@lukehagar/discoursejs/funcs/categoriesUpdateCategory.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { categoriesUpdateCategory } from "@parke.dev/discoursejs/funcs/categoriesUpdateCategory.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { LockPostRequestBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { LockPostRequestBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: LockPostRequestBody = {
   locked: "<value>",

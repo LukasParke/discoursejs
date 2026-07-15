@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GetUserExternalIdUserOption } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserExternalIdUserOption } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserExternalIdUserOption = {
   allowPrivateMessages: false,

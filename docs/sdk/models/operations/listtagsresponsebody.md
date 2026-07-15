@@ -5,7 +5,7 @@ notifications
 ## Example Usage
 
 ```typescript
-import { ListTagsResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListTagsResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListTagsResponseBody = {};
 ```

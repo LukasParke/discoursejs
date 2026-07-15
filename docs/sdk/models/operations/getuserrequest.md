@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GetUserRequest } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserRequest } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserRequest = {
   apiKey: "<value>",

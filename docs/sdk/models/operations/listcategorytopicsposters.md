@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { ListCategoryTopicsPosters } from "@lukehagar/discoursejs/sdk/models/operations";
+import { ListCategoryTopicsPosters } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: ListCategoryTopicsPosters = {
   description: "Centralized modular secured line",

@@ -5,7 +5,7 @@ user response
 ## Example Usage
 
 ```typescript
-import { GetUserIdentiyProviderExternalIdResponseBody } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserIdentiyProviderExternalIdResponseBody } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserIdentiyProviderExternalIdResponseBody = {
   user: {

@@ -1,7 +1,7 @@
 
 
 {
-  "name": "@lukehagar/discoursejs",
+  "name": "@parke.dev/discoursejs",
   "version": "0.10.2",
   "exports": {
     ".": "./src/index.ts",    

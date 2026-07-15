@@ -14,7 +14,7 @@ Search for a term
 ### Example Usage
 
 ```typescript
-import { SDK } from "@lukehagar/discoursejs";
+import { SDK } from "@parke.dev/discoursejs";
 
 const sdk = new SDK();
 
@@ -33,8 +33,8 @@ run();
 The standalone function version of this method:
 
 ```typescript
-import { SDKCore } from "@lukehagar/discoursejs/core.js";
-import { searchSearch } from "@lukehagar/discoursejs/funcs/searchSearch.js";
+import { SDKCore } from "@parke.dev/discoursejs/core.js";
+import { searchSearch } from "@parke.dev/discoursejs/funcs/searchSearch.js";
 
 // Use `SDKCore` for best tree-shaking performance.
 // You can create one instance of it to use across an application.

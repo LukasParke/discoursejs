@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { GetUserExternalIdGroupUsers } from "@lukehagar/discoursejs/sdk/models/operations";
+import { GetUserExternalIdGroupUsers } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: GetUserExternalIdGroupUsers = {
   groupId: 301831,

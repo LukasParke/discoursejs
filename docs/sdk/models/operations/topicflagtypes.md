@@ -3,7 +3,7 @@
 ## Example Usage
 
 ```typescript
-import { TopicFlagTypes } from "@lukehagar/discoursejs/sdk/models/operations";
+import { TopicFlagTypes } from "@parke.dev/discoursejs/sdk/models/operations";
 
 let value: TopicFlagTypes = {
   description: "Multi-layered foreground emulation",
